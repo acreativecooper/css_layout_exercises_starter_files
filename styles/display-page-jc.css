@@ -1,0 +1,45 @@
+main {
+	padding: 30px;
+  font-size:0px;
+
+}
+
+.container-one {
+	width: 800px;
+	height: 500px;
+	border: 1px black solid;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.green-box {
+	width:50%;
+	height:200px;
+	background-color: green;
+  display:inline-block;
+}
+
+.blue-box {
+	width:50%;
+	height:200px;
+	background-color: blue;
+  display:inline-block;
+}
+.inner {
+	height:300px;
+	width:33.33%;
+	display:inline-block;
+	font-size:0;
+}
+
+.inner-gray {
+	background-color:gray;
+}
+
+.inner-black {
+	background-color:black;
+}
+
+.inner-orange {
+	background-color:orange;
+}
